@@ -2,8 +2,8 @@
 An analysis for bicycle sales across the 3 branches; the Pacific, Europe and North America
 
 # Introduction
-This analysis was carried out using Excel. The data was imported to Power Query for Data Cleaning using the ETL method where blank spaces were removed or filled. Calculated columns were created to enable a granular form of data. Duplicate cells were also removed. The cleaned data was loaded to a new sheet for further Analysis.
-The cleaned data was aggregated using Pivot Tables after which the dashboard was created. Various charts were used for this analysis which includes; line graph, bar chart, column chart and donut chart. Slicers was introduced for easy filtering of the data and to get better context.
+- This analysis was carried out using Excel. The data was imported to Power Query for Data Cleaning using the ETL method where blank spaces were removed or filled. Calculated columns were created to enable a granular form of data. Duplicate cells were also removed. The cleaned data was loaded to a new sheet for further Analysis.
+- The cleaned data was aggregated using Pivot Tables after which the dashboard was created. Various charts were used for this analysis which includes; line graph, bar chart, column chart and donut chart. Slicers was introduced for easy filtering of the data and to get better context.
 
 # Insights
 It was noticed that comparing the 3 branches, North America has the highest number of sales with 44% in total revenue, next being Europe with 32% and then the Pacific generating 24% of total revenue.
